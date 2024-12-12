@@ -17,7 +17,7 @@
         "@tinymce/tinymce-vue": "^2.0.0",
         "ant-design-vue": "^1.4.10",
         "apexcharts": "^3.17.1",
-        "axios": "^0.21.1",
+        "axios": "^0.28.0",
         "bpmn-js": "^6.4.0",
         "clipboard": "^2.0.6",
         "codemirror": "^5.52.2",
@@ -69,13 +69,13 @@
         "vuex-class": "^0.3.1"
     },
     "devDependencies": {
-        "html-webpack-plugin": "^3.2.0",
+        "html-webpack-plugin": "^5.6.0",
         "uglifyjs-webpack-plugin": "^2.2.0",
         "compression-webpack-plugin": "^3.1.0",
         "@babel/polyfill": "^7.8.7",
         "@vue/cli-plugin-babel": "^3.12.1",
         "@vue/cli-plugin-eslint": "^3.12.1",
-        "@vue/cli-service": "^3.12.1",
+        "@vue/cli-service": "^5.0.8",
         "@vue/eslint-config-standard": "^4.0.0",
         "babel-eslint": "^10.1.0",
         "babel-plugin-component": "^1.1.1",
@@ -83,7 +83,7 @@
         "eslint-plugin-vue": "^5.1.0",
         "less": "^3.11.1",
         "less-loader": "^4.1.0",
-        "node-sass": "^4.13.1",
+        "node-sass": "^9.0.0",
         "sass-loader": "^7.3.1",
         "vue-template-compiler": "^2.6.11",
         "webpack": "^4.42.1"
